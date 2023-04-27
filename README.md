@@ -41,8 +41,8 @@ Step 4 : Test for the XOR patterns.
 
 # PROGRAM
 
-### Developed by : KRISHNA PRAKAASH D M
-### Reg.No: 212221230052
+### Developed by : Kishore kumar S
+### Reg.No: 212221240023
 Program to implement a perceptron for Implementation of MLP for non linearly separable problem using Python programming.
 
 import pandas as pd
